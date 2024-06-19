@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 
 const TodoInput = (props) => {
-  const {handleAddTodos} = props
-  const [todoValue, setTodoValues] = useState("")
+  const {handleAddTodos, todoValue, setTodoValues} = props
+  // const [todoValue, setTodoValues] = useState("")
   
 
   return (
