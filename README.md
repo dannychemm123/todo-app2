@@ -19,6 +19,9 @@ A simple and elegant ToDo application built with React. This app allows users to
 - CSS
 - JavaScript
 
+Link to the Todo List app
+[https://mytodolist-app-ii.netlify.app/]
+
 ## Installation
 
 1. **Clone the repository:**
